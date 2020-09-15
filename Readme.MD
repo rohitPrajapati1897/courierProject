@@ -1,6 +1,8 @@
  # Courier Tracking Project
  Lets consumer to track their consignment 
  
+ ![main](docs/courier-tracking-project.gif)
+ 
  ![home-page-1](docs/1.png)
  ![home-page-2](docs/2.png)
  ![sign-up-page](docs/3.png)
